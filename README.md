@@ -1,8 +1,15 @@
-<p align="left">
-<a href="https://stackoverflow.com/users/gleite22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="gleite22" height="30" width="40" /></a>
-<a href="https://instagram.com/gleite23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gleite23" height="30" width="40" /></a>
-<a href="https://discord.gg/guileite22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="guileite22" height="30" width="40" /></a>
+![KE](https://github.com/gleite22/gleite22/assets/117817612/08c5f0a8-1021-4547-ab84-299e43968ccd)
+<div align="left">
+   <p><b>Socials:</b></p>
+  <a href="http://www.instagram.com/gleite23" [rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a></code>
+<a href="https://discord.gg/guileite22" [rel="noreferrer"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a></code>
+  <a href="https://open.spotify.com/user/31bq5u6kmaczwdvjlk52mg6lsjma" [rel="noreferrer"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a></code>
 </p>
 
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+  <p><b>Skills:</b></p>
+
+<p align="left">
+  <a [rel="noreferrer"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></a></code>
+  <a  [rel="noreferrer"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /></a></code>
+
 
