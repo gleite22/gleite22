@@ -1,5 +1,5 @@
 ![KE](https://github.com/gleite22/gleite22/assets/117817612/08c5f0a8-1021-4547-ab84-299e43968ccd)
- <p><b>About me:</b></p>
+ <p><b>gL- Things</b>:</b></p>
  <pre>   
 💻 Student of Computer Science on Uminho.
 💀 Addicted to Music • MMA • Art • Skate.
