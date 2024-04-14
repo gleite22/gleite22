@@ -10,7 +10,7 @@
 
  
  <pre>
-               gL Things :
+     gL Things :
 💻 Student of Computer Science on Uminho.
 🕸️ Addicted to Music • MMA • Art • Skate.
 📚 Law of Attraction   •   Atomic Habits.
