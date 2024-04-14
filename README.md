@@ -7,12 +7,12 @@
    <div align="center">
 
     
- <p><b>gL- Things</b>:</b></p>
 
  
- <pre>   
+ <pre>
+               gL Things :
 💻 Student of Computer Science on Uminho.
-💀 Addicted to Music • MMA • Art • Skate.
+🕸️ Addicted to Music • MMA • Art • Skate.
 📚 Law of Attraction   •   Atomic Habits.
  </pre>
  
