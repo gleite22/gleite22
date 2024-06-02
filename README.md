@@ -14,7 +14,7 @@
 💻 Student of Computer Science on Uminho.
 🕸️ Addicted to Music • MMA • Art • Skate.
 📚 Law of Attraction   •   Atomic Habits.
-☪️ Alhamdulillah. God gave me everything.
+
 <div align="center">
 <h2>Socials:</h2>
 <a href="http://www.instagram.com/gleite23" [rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40"/></a></code><a href="https://discord.gg/guileite22" [rel="noreferrer"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="40"/></a></code><a href="https://open.spotify.com/user/31bq5u6kmaczwdvjlk52mg6lsjma" [rel="noreferrer"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" height="40"/></a></code></p>
