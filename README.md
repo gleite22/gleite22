@@ -1,5 +1,5 @@
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" ![14 188 George Harrison Stock Photos, High-Res Pictures, and Images](https://github.com/user-attachments/assets/b4351e2d-219c-4483-9986-e00a5b3b8bf3)
+<img hight="300" width="700" alt="George" align="center" src ="https://github.com/user-attachments/assets/b4351e2d-219c-4483-9986-e00a5b3b8bf3">
 
 43968ccd">
 </div>
