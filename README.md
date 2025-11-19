@@ -1,8 +1,7 @@
 
 ### Hi , i'm Gui! 🕸
 
- I'm a Computer Science student passionate about building things that solve real problems. I love exploring new technologies, writing clean and efficient code, and learning every day. When I'm not programming, you’ll probably find me listening to music or discovering new artists.
-
+ I'm a Computer Science student passionate about building things that solve real problems. I love exploring new technologies, writing clean and efficient code, and learning every day. I’m especially interested in creating projects that combine music with programming. When I'm not coding, you’ll probably find me listening to music, discovering new artists, or playing guitar.
 
 #
 
